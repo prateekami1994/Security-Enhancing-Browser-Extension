@@ -12,7 +12,7 @@
 
 
 
-## The Features of PassMan are
+## PassMan Features
 
 1. __Detect Password Reuse__: PassMan detects whether the user on registering on a new website, is using a password that has already been used on a different website. The PassMan warns the user that the password he is using to sign up has already been used, and encourages him to use a different password.
 
